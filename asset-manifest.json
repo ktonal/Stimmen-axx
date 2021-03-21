@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Stimmen-axx/static/css/main.62ab9481.chunk.css",
+    "main.js": "/Stimmen-axx/static/js/main.db99de86.chunk.js",
+    "main.js.map": "/Stimmen-axx/static/js/main.db99de86.chunk.js.map",
+    "runtime-main.js": "/Stimmen-axx/static/js/runtime-main.54de80bd.js",
+    "runtime-main.js.map": "/Stimmen-axx/static/js/runtime-main.54de80bd.js.map",
+    "static/js/2.afc19efd.chunk.js": "/Stimmen-axx/static/js/2.afc19efd.chunk.js",
+    "static/js/2.afc19efd.chunk.js.map": "/Stimmen-axx/static/js/2.afc19efd.chunk.js.map",
+    "static/js/3.d34da3f8.chunk.js": "/Stimmen-axx/static/js/3.d34da3f8.chunk.js",
+    "static/js/3.d34da3f8.chunk.js.map": "/Stimmen-axx/static/js/3.d34da3f8.chunk.js.map",
+    "index.html": "/Stimmen-axx/index.html",
+    "static/css/main.62ab9481.chunk.css.map": "/Stimmen-axx/static/css/main.62ab9481.chunk.css.map",
+    "static/js/2.afc19efd.chunk.js.LICENSE.txt": "/Stimmen-axx/static/js/2.afc19efd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54de80bd.js",
+    "static/js/2.afc19efd.chunk.js",
+    "static/css/main.62ab9481.chunk.css",
+    "static/js/main.db99de86.chunk.js"
+  ]
+}
