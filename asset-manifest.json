@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Stimmen-axx/static/css/main.62ab9481.chunk.css",
-    "main.js": "/Stimmen-axx/static/js/main.7809c8ab.chunk.js",
-    "main.js.map": "/Stimmen-axx/static/js/main.7809c8ab.chunk.js.map",
-    "runtime-main.js": "/Stimmen-axx/static/js/runtime-main.bc41b85c.js",
-    "runtime-main.js.map": "/Stimmen-axx/static/js/runtime-main.bc41b85c.js.map",
-    "static/js/2.cd2c9dda.chunk.js": "/Stimmen-axx/static/js/2.cd2c9dda.chunk.js",
-    "static/js/2.cd2c9dda.chunk.js.map": "/Stimmen-axx/static/js/2.cd2c9dda.chunk.js.map",
-    "static/js/3.ec5133a7.chunk.js": "/Stimmen-axx/static/js/3.ec5133a7.chunk.js",
-    "static/js/3.ec5133a7.chunk.js.map": "/Stimmen-axx/static/js/3.ec5133a7.chunk.js.map",
-    "index.html": "/Stimmen-axx/index.html",
-    "static/css/main.62ab9481.chunk.css.map": "/Stimmen-axx/static/css/main.62ab9481.chunk.css.map",
-    "static/js/2.cd2c9dda.chunk.js.LICENSE.txt": "/Stimmen-axx/static/js/2.cd2c9dda.chunk.js.LICENSE.txt"
+    "main.css": "/voix-neuronales-axx/static/css/main.62ab9481.chunk.css",
+    "main.js": "/voix-neuronales-axx/static/js/main.870d547d.chunk.js",
+    "main.js.map": "/voix-neuronales-axx/static/js/main.870d547d.chunk.js.map",
+    "runtime-main.js": "/voix-neuronales-axx/static/js/runtime-main.01a07a1b.js",
+    "runtime-main.js.map": "/voix-neuronales-axx/static/js/runtime-main.01a07a1b.js.map",
+    "static/js/2.cd2c9dda.chunk.js": "/voix-neuronales-axx/static/js/2.cd2c9dda.chunk.js",
+    "static/js/2.cd2c9dda.chunk.js.map": "/voix-neuronales-axx/static/js/2.cd2c9dda.chunk.js.map",
+    "static/js/3.ec5133a7.chunk.js": "/voix-neuronales-axx/static/js/3.ec5133a7.chunk.js",
+    "static/js/3.ec5133a7.chunk.js.map": "/voix-neuronales-axx/static/js/3.ec5133a7.chunk.js.map",
+    "index.html": "/voix-neuronales-axx/index.html",
+    "static/css/main.62ab9481.chunk.css.map": "/voix-neuronales-axx/static/css/main.62ab9481.chunk.css.map",
+    "static/js/2.cd2c9dda.chunk.js.LICENSE.txt": "/voix-neuronales-axx/static/js/2.cd2c9dda.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc41b85c.js",
+    "static/js/runtime-main.01a07a1b.js",
     "static/js/2.cd2c9dda.chunk.js",
     "static/css/main.62ab9481.chunk.css",
-    "static/js/main.7809c8ab.chunk.js"
+    "static/js/main.870d547d.chunk.js"
   ]
 }
